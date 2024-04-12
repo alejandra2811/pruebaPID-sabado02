@@ -1,17 +1,9 @@
-# Proyecto Java Backend- Spring
 
-prueba
-
-## Docente ✒️
+* Cibertec
 
 * **Jorge Jacinto **
 
 ## Grupo  ✒️
-* 
-* Cibertec
-* 
-* 
-* 
-* 
 
-Autoraa:Alejandra Bolaños
+
+* **Autora:Alejandra Bolaños**
